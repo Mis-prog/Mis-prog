@@ -1,5 +1,5 @@
 ## Hello everyone, my name is Misha 👋
-I study at the [Ufa University of Science and Technology](https://study.uust.ru/), majoring in applied mathematics.
+I studied at Ufa State Aviation Technical University in the specialty "Applied Mathematics" from 2021 to 2025 (Bachelor's degree).
 
 I am interested in machine learning, computer vision, 3D reconstruction and restoration of camera parameters (camera calibration)
 
