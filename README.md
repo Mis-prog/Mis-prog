@@ -8,3 +8,6 @@ Academic projects from the university
 - [Laboratory work for the 8th semester on mathematical modeling](https://github.com/Mis-prog/matmod-8sem/)
 - [Implementation of optimization methods for selecting RBF interpolation parameters](https://github.com/Mis-prog/kursovai_5sem)
 - [Signal Processing App](https://github.com/Mis-prog/digital-signal-processing-app)
+
+Currently, I am working on a camera calibration project for traffic scene analysis. The goal is to recover the camera’s intrinsic and extrinsic parameters using vanishing points, road geometry, and satellite data.
+I'm open to collaboration and eager to contribute to applied computer vision projects.
